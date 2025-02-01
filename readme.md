@@ -21,8 +21,8 @@ A command-line interface tool written in Go that allows you to list and install 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mappdate.git
-cd mmappdate
+git clone https://github.com/makalin/mappdate.git
+cd mappdate
 ```
 
 2. Install the required dependency:
